@@ -13,8 +13,8 @@ p{text-align: justify;
  /* Formatação de imagens ou legendas */
  figure.foto-legenda{
    position: relative;
-   width: 350px;
-   height: 200px;
+   width: 450px;
+   height: 300px;
    border: 8px solid rgb(126, 114, 114);
    box-shadow:  2px 2px 9px;
 }
@@ -40,5 +40,4 @@ figure.foto-legenda figcaption{
 }
 figure.foto-legenda:hover figcaption{
   opacity: 1;
-
 }
